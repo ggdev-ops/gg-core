@@ -1,0 +1,25 @@
+Currently
+
+07 — WHEN / WHERE
+
+08 — WHAT IF
+
+09 — HOW THEN
+
+10 - THE WHY SYSTEM
+
+11 — CHAPTER
+
+
+because new CHAPTER adjust like
+
+
+07 — IF X, THEN Y
+
+08 — WHEN / WHERE
+
+09 — WHAT IF
+
+10 — HOW THEN
+
+11 — THE WHY SYSTEM
