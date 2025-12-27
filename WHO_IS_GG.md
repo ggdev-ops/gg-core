@@ -130,21 +130,25 @@ From Good Seeds participant (2006) → Legend Seed (Nov 2025) → Legend Seed Pl
 
 ---
 ## 🧠 The Mental OS: How Ahmed Thinks
-### **The WHY System v3 (7-Gate Pipeline)**
+### **The WHY System v3 (9-Stage Pipeline)**
 
-WHY → WHEN → WHY → WHERE → WHY → WHAT → HOW → WHY
+A 9-stage decision pipeline with 5 WHY gates and 4 functional nodes.
 
-**Purpose:** Multi-layer decision engine with WHY as gatekeeper at every step
-**Nodes:**
-- **Node-0 (WHY):** Relevance Check - "Does this matter?"
-- **Node-1 (WHEN):** Timing Logic - "Is this the right time?"
-- **Node-2 (WHY):** Re-check relevance after timing
-- **Node-3 (WHERE):** Context Logic - "Is this the right place?"
-- **Node-4 (WHY):** Re-check relevance after context
-- **Node-5 (WHAT):** Action Candidate - "What should I do?"
-- **Node-6 (HOW):** Execution Plan - "How should I do it?"
-- **Node-7 (WHY):** Final Gatekeeper - "Why this execution?"
-**Key Principle:** Nothing passes unless it clears every gate.
+**Full Pipeline:**
+> WHY → WHEN → WHY → WHERE → WHY → WHAT → WHY → HOW → WHY
+
+**The 5 Gates & 4 Nodes:**
+- **Gate 1 (WHY):** Relevance Check - "Does this matter?"
+- **Node 1 (WHEN):** Timing Logic - "Is this the right time?"
+- **Gate 2 (WHY):** Situational Re-check - "Does timing change relevance?"
+- **Node 2 (WHERE):** Context Logic - "Is this the right place?"
+- **Gate 3 (WHY):** Environmental Re-check - "Does context change relevance?"
+- **Node 3 (WHAT):** Action Candidate - "What should I do?"
+- **Gate 4 (WHY):** Action Value Check - "Is this action worth doing?"
+- **Node 4 (HOW):** Execution Plan - "How should I do it?"
+- **Gate 5 (WHY):** Final Method Check - "Is this method optimal?"
+
+**Key Principle:** Nothing passes unless it clears every gate. A 'NO' at any gate stops the process.
 ---
 ### **The WHY System v4 (3-Rule Compression) - DRAFT**
 

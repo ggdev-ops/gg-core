@@ -85,22 +85,23 @@ V4 is the axiomatic version of V3
 
 | V3 Gate / Node | Function | Mapped to V4 Rule |
 |----------------|----------|-------------------|
-| WHY (initial) | Relevance filter | PURPOSE / INTENT |
-| WHEN | Timing check | CONTEXT / CIRCUMSTANCE |
-| WHY (after WHEN) | Re-evaluate relevance after timing | CONTEXT / CIRCUMSTANCE |
-| WHERE | Environment / situational check | CONTEXT / CIRCUMSTANCE |
-| WHY (after WHERE) | Re-evaluate relevance after context | CONTEXT / CIRCUMSTANCE |
-| WHAT (if) | Action candidate generation | EXECUTION / METHOD |
-| HOW (then) | Method / procedure for action | EXECUTION / METHOD |
-| WHY (final) | Final gate for execution validity | EXECUTION / METHOD |
+| WHY (initial)  | Relevance filter                 | PURPOSE / INTENT         |
+| WHEN           | Timing check                     | CONTEXT / CIRCUMSTANCE   |
+| WHY (after WHEN) | Re-evaluate relevance after timing | CONTEXT / CIRCUMSTANCE   |
+| WHERE          | Environment / situational check  | CONTEXT / CIRCUMSTANCE   |
+| WHY (after WHERE)| Re-evaluate relevance after context| CONTEXT / CIRCUMSTANCE   |
+| WHAT (if)      | Action candidate generation      | EXECUTION / METHOD       |
+| WHY (after WHAT) | Action value check               | EXECUTION / METHOD       |
+| HOW (then)     | Method / procedure for action    | EXECUTION / METHOD       |
+| WHY (final)    | Final gate for execution validity| EXECUTION / METHOD       |
 
 ---
 
 ## Visual Comparison
 
-### V3 (7 Gates)
+### V3 (5 Gates + 4 Nodes)
 ```
-WHY → WHEN → WHY → WHERE → WHY → WHAT → HOW → WHY
+WHY → WHEN → WHY → WHERE → WHY → WHAT → WHY → HOW → WHY
 ```
 
 ### V4 (3 Rules / Axioms)

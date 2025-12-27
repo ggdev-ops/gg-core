@@ -150,9 +150,51 @@ This turns your brain into a precision machine, not an overthinker.
 
 ---
 
+## Gated Pipeline Model
+
+A more detailed view of the pipeline, showing how each `WHY` acts as a gate. A "NO" at any gate stops the process.
+
+    Input
+      │
+      ├─> WHY: Relevance? (Does this matter?)
+      │     │
+      │    YES
+      │     ↓
+      ├─> WHEN: Timing? (Is this the right time?)
+      │     │
+      │     ↓
+      ├─> WHY: Situational Relevance? (Does timing change things?)
+      │     │
+      │    YES
+      │     ↓
+      ├─> WHERE: Context? (Is this the right environment?)
+      │     │
+      │     ↓
+      ├─> WHY: Environmental Relevance? (Does context change things?)
+      │     │
+      │    YES
+      │     ↓
+      ├─> WHAT: Action? (What is the logical action?)
+      │     │
+      │     ↓
+      ├─> WHY: Action Value? (Is this action worth doing?)
+      │     │
+      │    YES
+      │     ↓
+      ├─> HOW: Execution? (How do I do this effectively?)
+      │     │
+      │     ↓
+      ├─> WHY: Method Alignment? (Does this method align with goals?)
+      │     │
+      │    YES
+      │     ↓
+      └─> Execute
+
+---
+
 ## Summary
 
-**WHY System v3** = a five-node pipeline controlled by seven WHY gates.
+**WHY System v3** = a four-node (WHEN, WHERE, WHAT, HOW) pipeline controlled by five WHY gates.
 
 Nothing enters. Nothing exits. Nothing executes unless every gate says "YES."
 
