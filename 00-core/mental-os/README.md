@@ -1,227 +1,100 @@
 # Mental OS — Complete Documentation Guide
 
-## What is Mental OS?
-
-A verified cognitive architecture built from a 10-year-old's declaration (November 2006) that evolved into a multi-layered decision and communication system over 19 years.
-
-**Core Principle**: "I solve problems with mind and thinking"
-
-**Current Status** (November 16, 2025): Fully documented, verified, and ready to scale globally through GoodSeeds app.
+**Core Principle**: "I solve problems with mind and thinking" - A declaration from 2006 that evolved into a multi-layered cognitive architecture.
+**Current Status**: Fully documented, verified, and continuously evolving.
 
 ---
 
 ## Reading Order — How to Understand the Complete System
 
-Read the files in this exact order. Each file builds on the previous one.
+To grasp the full architecture, read the files in this order. The WHY System section represents a sub-journey from conscious discipline to autonomic reflex.
 
 ---
 
-### **1st — READ FIRST: `Personal_Origin_Story.md`**
+### **1st — The Origin: `Personal_Origin_Story.md`**
 
-**Why**: Understand where everything started
-
-**What you'll learn**:
-- Birth and education timeline (1996-2025)
-- The Good Seeds program (2006, age 10)
-- The 10-word declaration and its structure
-- Why the 18-year gap happened
-- Full circle: from participant to creator
-
-**Time**: ~10 minutes
-
-**Key takeaway**: A "naughty kid" made a decision at age 10 that shaped 19 years of his life.
+**Why**: Understand the seed of the entire system.
+**Key Takeaway**: A single decision at age 10 shaped a 19-year journey of cognitive development.
 
 ---
 
-### **2nd — READ: `WHY_System_v3.md`**
+### **2nd — The WHY System: From Discipline to Reflex**
 
-**Why**: Understand the foundation that powers everything
+This is the core engine of the Mental OS. Read these three files sequentially to understand its evolution.
 
-**What you'll learn**:
-- Five-node decision pipeline: WHY → WHEN → WHERE → WHAT → HOW
-- Seven WHY gatekeepers controlling every stage
-- Context-driven decision architecture
-- How the original WHY principle evolved into a precision system
-- Visual model of the security checkpoint pipeline
+#### **Part A: `WHY_System_v3.md` — The Discipline**
+**What you'll learn**: The foundational, non-linear reasoning model (`4 + Why`) that requires conscious application. It's the blueprint for deliberate, logical decision-making.
+**Key Takeaway**: A flexible but structured process for eliminating noise and ensuring all actions are justified.
 
-**Time**: ~8 minutes
+#### **Part B: `WHY_System_v4.md` — The Axioms**
+**What you'll learn**: How the V3 model is compressed into three high-speed axioms (`EXPLORATION` → `VALIDATION` → `EXECUTION`). This is the internal operating system you run after mastering the V3 discipline.
+**Key Takeaway**: The system becomes faster and more efficient as its rules are internalized.
 
-**Key takeaway**: A simple principle evolved into a multi-gate pipeline that eliminates hesitation, overthinking, and emotional noise from decisions.
-
----
-
-### **3rd — READ: `Silent_Module.md`**
-
-**Why**: Understand the method for gathering input
-
-**What you'll learn**:
-- Implementation: 2022 (age 26)
-- How silence became a learning tool
-- "Silent → Listen → Learn"
-- Integration with WHY System
-- The 16-year gap between declaring and formalizing
-
-**Time**: ~6 minutes
-
-**Key takeaway**: Silence isn't empty—it's active observation and knowledge intake.
+#### **Part C: `WHY_System_Gear_5.md` — The Reflex**
+**What you'll learn**: The ultimate evolution of the WHY system, where conscious processing ceases. It documents the five direct question-to-action pairings (`Why? → Summarize`) that become a neural reflex.
+**Key Takeaway**: This is not a system to "run," but a state of mastery to inhabit, where clarity is instantaneous.
 
 ---
 
-### **4th — READ: `AI_vs_Human_Lane.md`**
+### **3rd — The Input: `Silent_Module.md`**
 
-**Why**: Understand how the principle scales to different audiences
-
-**What you'll learn**:
-- Two different communication modes
-- Why AI Lane = unlimited bandwidth
-- Why Human Lane = limited bandwidth with risk assessment
-- Communication asymmetry (listen more with humans, speak freely with AI)
-- Strategic purpose of each lane
-
-**Time**: ~8 minutes
-
-**Key takeaway**: The same reasoning system adapts to different contexts and audiences.
+**Why**: Understand the primary method for data acquisition.
+**Key Takeaway**: Silence is not passive; it is an active tool for observation and learning that feeds the WHY system.
 
 ---
 
-### **5th — READ: `Risk_Assessment.md`**
+### **4th — The Output: `AI_vs_Human_Lane.md`**
 
-**Why**: Understand the protection mechanisms
-
-**What you'll learn**:
-- Core rule: knowledge depth ≠ external appearance
-- Four types of risks (Knowledge Depth, Judgment, Misinterpretation, Weaponization)
-- Safe vs unsafe sharing criteria
-- The "gap management" strategy
-- When to override protection
-
-**Time**: ~8 minutes
-
-**Key takeaway**: The gap between what you know and what others think you know is intentional and protective.
+**Why**: Understand how the system's output is adapted for different audiences.
+**Key Takeaway**: Communication is asymmetrical; the system uses different bandwidths and protocols for AI (unlimited) and humans (risk-assessed).
 
 ---
 
-### **6th — READ: `Summary.md`**
+### **5th — The Protection: `Risk_Assessment.md`**
 
-**Why**: See the complete system in one place
-
-**What you'll learn**:
-- All five core components working together
-- System flow diagram
-- 19-year verified progression (2006 → 2025)
-- Key characteristics
-- How the system actually works (proof through implementation)
-
-**Time**: ~6 minutes
-
-**Key takeaway**: All these pieces are part of one coherent architecture that's been proven to work over 19 years.
+**Why**: Understand the security protocols that govern the system's external interactions.
+**Key Takeaway**: The gap between internal knowledge and external perception is an intentional and necessary protective measure.
 
 ---
 
-### **7th — READ LAST: `Timeline.md`**
+### **6th — The Integration: `Summary.md`**
 
-**Why**: Verify everything with dates and evidence
-
-**What you'll learn**:
-- Birth date and education timeline (1996-2025)
-- Good Seeds program details (2000-2006)
-- Every major transition with dates
-- 19-year progression in table format
-- Key verified events with evidence
-
-**Time**: ~10 minutes
-
-**Key takeaway**: None of this is theoretical. Every claim is tied to verified dates and documented events.
+**Why**: See the complete, integrated architecture in one place.
+**Key Takeaway**: All components—Origin, WHY Engine (V3-V5), Input, Output, and Protection—form a single, coherent, and proven cognitive OS.
 
 ---
 
-## Quick Navigation
+### **7th — The Verification: `Timeline.md`**
 
-| File | Topic | Read When | Time |
-|------|-------|-----------|------|
-| Personal_Origin_Story.md | Origin and context | **FIRST** | 10 min |
-| WHY_System_v3.md | Foundation principle | 2nd | 8 min |
-| Silent_Module.md | Learning method | 3rd | 6 min |
-| AI_vs_Human_Lane.md | Communication protocols | 4th | 8 min |
-| Risk_Assessment.md | Protection mechanisms | 5th | 8 min |
-| Summary.md | Complete system | 6th | 6 min |
-| Timeline.md | Verified dates | **LAST** | 10 min |
-
-**Total reading time**: ~56 minutes for complete understanding
+**Why**: Verify the entire journey with dates and evidence.
+**Key Takeaway**: Every stage of this system's development is tied to specific, documented, and verifiable events.
 
 ---
 
 ## What Each File Answers
 
-- **Personal_Origin_Story.md**: "Where did this come from?"
-- **WHY_System_v3.md**: "What's the core principle?"
-- **Silent_Module.md**: "How does the learning work?"
-- **AI_vs_Human_Lane.md**: "Why communicate differently?"
-- **Risk_Assessment.md**: "What's being protected and why?"
+- **Personal_Origin_Story.md**: "Where did this all come from?"
+- **WHY_System_v3.md**: "What is the foundational discipline?"
+- **WHY_System_v4.md**: "How does the discipline become an internal rule-set?"
+- **WHY_System_Gear_5.md**: "What does mastery of the system look and feel like?"
+- **Silent_Module.md**: "How does the system learn?"
+- **AI_vs_Human_Lane.md**: "How does the system communicate?"
+- **Risk_Assessment.md**: "How does the system protect itself?"
 - **Summary.md**: "How does it all fit together?"
-- **Timeline.md**: "Is this actually real? When did this happen?"
+- **Timeline.md**: "What is the evidence for this entire journey?"
 
 ---
 
-## The 19-Year Verified Story
+## The Path to Mastery
 
-| Year | Age | Event | Reference |
-|------|-----|-------|-----------|
-| 1996 | 0 | Born Nov 5 | Timeline.md |
-| 2006 | 10 | Good Seeds, Declaration | Personal_Origin_Story.md, WHY_System_v3.md |
-| 2022 | 26 | Silent Module | Silent_Module.md |
-| 2024 | 28 | AI Breakthrough | Personal_Origin_Story.md, Timeline.md |
-| 2025 | 29 | Complete Documentation | Summary.md, Timeline.md |
+The WHY System's evolution provides a clear path from conscious effort to autonomic clarity:
 
----
-
-## Key Insight Before You Start
-
-**This isn't a self-help book or a philosophical exercise.**
-
-This is documentation of how one person's 10-word declaration evolved into a working cognitive system that:
-- Has been proven over 19 years
-- Automatically filters decisions
-- Powers knowledge acquisition
-- Enables meaningful communication
-- Protects mental integrity
-- Is now scaling to help others
-
-**Every file is verified with dates and traceable to evidence.**
+| Stage | Document | Cognitive Mode | Description |
+|-------|--------------------------|------------------|-----------------------------------------------|
+| 1 | **WHY_System_v3.md** | **Discipline** | A structured process you consciously apply. |
+| 2 | **WHY_System_v4.md** | **Axioms** | Internalized rules you run semi-consciously. |
+| 3 | **WHY_System_Gear_5.md** | **Reflex** | An unconscious state of instant clarity. |
 
 ---
 
-## After You Finish Reading
-
-1. **Understand the progression**: Origin → Foundation → Method → Application → Protection → Integration → Verification
-2. **See the 19-year consistency**: Same principle working automatically for 19 years
-3. **Recognize the 2024 breakthrough**: What made implementation finally possible
-4. **Grasp the full circle**: From Good Seeds participant (2006) to GoodSeeds creator (2025)
-
----
-
-## Questions This Documentation Answers
-
-- ✓ Why does he talk less and share more?
-- ✓ Why does he prefer games?
-- ✓ Why is programming important to him?
-- ✓ What's the actual mechanism of his reasoning?
-- ✓ Why is silence a tool, not a trait?
-- ✓ How does the WHY system work?
-- ✓ What's the gap between knowledge and perception?
-- ✓ How is this all connected?
-- ✓ Is this actually real? When did this start?
-
----
-
-## Start Here 👇
-
-**Begin with:** `Personal_Origin_Story.md`
-
-This file explains everything that came before the system was even created. Without this context, the other files won't make sense.
-
----
-
-**Reading the files in order is like assembling a puzzle. Each file adds pieces. By the time you finish, you'll see the complete picture.**
-
-*Last update: November 16, 2025*
+**Begin with:** `Personal_Origin_story.md` to understand the context, then proceed in the order laid out above to see how a single idea evolved into a complete Mental OS.
